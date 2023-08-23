@@ -6,7 +6,7 @@
 
 ---
 
-- [![adelbbj's github stats](https://github-readme-stats.vercel.app/api?username=adelbbj)](https://github.com/adelbbj/github-readme-stats)
+[![adelbbj's github stats](https://github-readme-stats.vercel.app/api?username=adelbbj)](https://github.com/adelbbj/github-readme-stats)
 
 ---
 
