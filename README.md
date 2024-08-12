@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adelbbj
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me [[LinkedIn](https://www.linkedin.com/in/adel-babajanpour)]
 
